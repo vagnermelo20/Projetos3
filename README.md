@@ -146,6 +146,6 @@ A documentação completa dos endpoints, com modelos de requisição e resposta,
 
 ## 📬 Contato
 
-**Vagner Melo** - [seu-email@example.com]
+**Vagner Melo** - []
 
 **Link do Projeto:** [https://github.com/vagnermelo20/Projetos3](https://github.com/vagnermelo20/Projetos3)
