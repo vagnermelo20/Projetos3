@@ -108,8 +108,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    cd nome-do-repositorio
+    git clone [https://github.com/vagnermelo20/Projetos3.git](https://github.com/vagnermelo20/Projetos3.git)
+    cd Projetos3
     ```
 
 2.  **Configure o Banco de Dados:**
@@ -141,3 +141,11 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 A documentação completa dos endpoints, com modelos de requisição e resposta, é gerada automaticamente pelo SpringDoc e pode ser acessada pela interface do Swagger.
 
 * **URL do Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
+---
+
+## 📬 Contato
+
+**Vagner Melo** - [seu-email@example.com]
+
+**Link do Projeto:** [https://github.com/vagnermelo20/Projetos3](https://github.com/vagnermelo20/Projetos3)
